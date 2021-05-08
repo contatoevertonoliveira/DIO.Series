@@ -1,0 +1,16 @@
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\estudos\sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\estudos\sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
