@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\estudos\\sharp\\DIO.Series\\DIO.Series.csproj",
+      "projectUniqueName": "c:\\estudos\\sharp\\DIO.SeriesII\\DIO.Series\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "C:\\estudos\\sharp\\DIO.Series\\DIO.Series.csproj",
+      "projectPath": "c:\\estudos\\sharp\\DIO.SeriesII\\DIO.Series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-      "outputPath": "C:\\estudos\\sharp\\DIO.Series\\obj\\",
+      "outputPath": "c:\\estudos\\sharp\\DIO.SeriesII\\DIO.Series\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
